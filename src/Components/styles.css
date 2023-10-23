@@ -1,0 +1,9 @@
+div{
+    width: 55%;
+    margin: auto;
+    text-align: center;
+}
+textarea{
+    width: 100%;
+    line-height: 150%;
+}
